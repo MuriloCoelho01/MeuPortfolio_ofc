@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type:  none;
+    align-items: center;
+    padding: 15px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+img{
+    width: 300px;;
+    height: auto;
+    border-radius: 50%;
+}
+.center{
+    text-align: center;
+}
